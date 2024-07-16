@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hyo's DevBlog"
+name                     : "DevBlog"
 description              : "끄적끄적 채우는 개발블로그"
 url                      : "https://lhg0314.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyo><Jin"
+  name             : "HyoStudy"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "끄적끄적 채우는 개발블로그"
   location         : "South Korea"
